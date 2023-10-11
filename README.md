@@ -1,4 +1,4 @@
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">Profile
     <img src="https://komarev.com/ghpvc/?username=irsyadkamal-github&label=Profile+Views&color=ba0404&style=flat-square">
 </a>
 <h1 align="center"> Hi there👋, I'm Muhammad Irsyad Kamal Fannan - <a href="https://www.instagram.com/irsyadkamal.14/?hl=en">irsyadkamal.14</a></h1>
