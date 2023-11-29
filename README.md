@@ -6,7 +6,7 @@
 <h3 align="center">My Passion Programmer Web or Mobile App</h3>
 
 ### About Me :
-- 🔭 I’m currently working in [Surabaya State University](https://www.unesa.ac.id/) || Bachelor of Informatic Engineering
+- 🔭 I’m currently working in [State University of Surabaya](https://www.unesa.ac.id/) || Bachelor of Informatic Engineering
 - 🌱 I’m currently learning Java Script & Fluter
 - 👯 I’m looking to collaborate as Mobile or Web Development 
 - 🤔 I’m looking for suggest for Automation and Data Analyst
@@ -14,7 +14,7 @@
 - 📫 How to reach me: kamalfanan1404@gmail.com
 
 ### Education : 
-#### 1. [Surabaya State University](https://www.unesa.ac.id/) || Bachelor of Informatic Engineering || **UNESA `2021 - Now`**
+#### 1. [State University of Surabaya](https://www.unesa.ac.id/) || Bachelor of Informatic Engineering || **UNESA `2021 - Now`**
    - Informatics Student Association UNESA
    - Islamic Organization (Islamic Student Movement)
    - Regional College Organization on Trenggalek country
@@ -23,6 +23,14 @@
    - Information Engineering Organization
 
 ## Work Experience:
+#### 1. [Conect World] | Mobile Developer | **Surabaya `Jan 2022 - May 2022`**
+   - Slicing UI to Mobile App
+   - Rest API to content Mobile App
+   - Verification and validation of program structure
+#### 2. [Research UMKM on Rooslin Product](https://rooslin-nganjuk.com/) | Website Developer | **Nganjuk `Aug - Des 2023`**
+   - Research assistant lecturer
+   - Web development on Rooslin Product 
+   - Market analysis
 
 ---
 
