@@ -40,11 +40,11 @@
 
 ### Connect with me:
 
-[![website](./img/medium-light.svg)](https://medium.com/@kamalfanan1404#gh-light-mode-only)
-[![website](./img/medium-dark.svg)](https://medium.com/@kamalfanan1404#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://medium.com/@kamalfanan1404#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://medium.com/@kamalfanan1404#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/web-white.svg)](https://profile-irsyadkamal.vercel.app#gh-light-mode-only)
-[![website](./img/web-black.svg)](https://profile-irsyadkamal.vercel.app#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://profile-irsyadkamal.vercel.app#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://profile-irsyadkamal.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muh-irsyad-engineering-informaticstudent#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muh-irsyad-engineering-informaticstudent#gh-dark-mode-only)
