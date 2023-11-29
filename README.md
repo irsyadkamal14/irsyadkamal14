@@ -58,5 +58,3 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
