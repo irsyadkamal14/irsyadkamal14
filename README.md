@@ -23,7 +23,7 @@
    - Information Engineering Organization
 
 ## Work Experience:
-#### 1. [Conect World] | Mobile Developer | **Surabaya `Jan 2022 - May 2022`**
+#### 1. [Conect World](#) | Mobile Developer | **Surabaya `Jan 2022 - May 2022`**
    - Slicing UI to Mobile App
    - Rest API to content Mobile App
    - Verification and validation of program structure
